@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="humidity">Humidity:</string>
+    <string name="wind">Wind:</string>
+    <string name="celsius"> °C</string>
+    <string name="hint">Enter Your City</string>
+</resources>
